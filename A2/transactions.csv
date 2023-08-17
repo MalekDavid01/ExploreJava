@@ -1,0 +1,28 @@
+operation,type,ProductType,name,prestataire,description,sku,quantity,tax rate,price
+approvisionnement,produit,Carte,carte nba - variés,,,crt-nba-0010,100,0.13,5
+vente,produit,Carte,carte nba - variés,,carte nba,crt-nba-0010,30,0.13,10
+vente,produit,Carte,carte nhl,,carte nhl,crt-nhl-1020,10,0.14975,20
+vente,produit,Carte,carte nba - variés,,carte nba,crt-nba-0010,20,0.13,20
+vente,produit,Jersey-c,custom NHL Jersey,,Jersey with customized name,jrs-nhl-01-c,2,0.13,300
+achat,services,,maintenance grade 1,FixIt Inc.,website maintenance (bug fix),,,0.14975,199.95
+vente,produit,Poster-s,poster L. James avec autographe ,,signed  poster,pst-lbj-01-s,1,0.13,400
+vente,produit,Jersey,jersey M. Jordan,,replica jersey,jrs-mj-01,1,0.13,150
+achat,produit,Papier,papierformat  Legal,Staples,pack - printer paper,pap-letter-22,10,0.13,8
+vente,produit,Jersey-c,custom NHL Jersey,,Jersey with customized name,jrs-nhl-01-sc,2,0.13,300
+vente,produit,Jersey-s,jersey M. Jordan avec autographe,,signed jersey,jrs-mj-01-s,1,0,1200
+achat,produit,Papier,papierformat  Legal,Staples,pack - printer paper,pap-letter-22,10,0.13,8
+achat,services,,maintenance grade 2,FixIt Inc.,website maintenance (bug fix),,,0.14975,199.95
+vente,produit,Poster,poster,,poster,pst-lbj-01,20,0.13,30.99
+approvisionnement,produit,,,,,crt-nba-0010,100,0.13,5
+vente,produit,Jersey,jersey NFL varié,,replica jersey,crt-nfl-4020,10,0.14975,75
+achat,services,,maintenance grade 1,FixIt Inc.,website maintenance (bug fix),m-001,,0.14975,199.95
+approvisionnement,produit,,,,,crt-nhl-1020,5,0.13,10.99
+approvisionnement,produit,,,,,jrs-mj-01,10,0.13,150
+vente,produit,Jersey,jersey L.James,,replica,jrs-lbj-01,7,0.13,150
+vente,produit,Jersey-s,jersey M. Jordan avec autographe,,signed jersey,jrs-mj-01-s,8,0.13,1800
+achat,services,,Nettoyage Niveau 2,123Clean Ltd,Local cleaning,,,0,459.95
+vente,produit,Carte,carte nba - variés,,carte nba,crt-nba-0010,5,0.13,10
+vente,produit,Poster,poster L.james,,poster,pst-lbj-01,40,0.13,30.99
+vente,produit,Jersey,jersey NFL varié,,replica jersey,crt-nfl-4020,40,0.14975,75
+vente,produit,Jersey-c,custom NHL Jersey,,Jersey with customized name,jrs-nhl-01-c,1,0.13,300
+vente,produit,Jersey-c,custom NHL Jersey,,Jersey with customized name,jrs-nhl-01-sc,1,0.13,300
